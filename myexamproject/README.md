@@ -1,5 +1,5 @@
-Saurav's Test Center
-Saurav's Test Center is a Django-based web application for conducting online tests with a user-friendly interface. It supports user authentication, test-taking with a timer and question tracker, and optional feedback collection. The application features a sleek, dark-themed UI built with Tailwind CSS.
+Vishal's Test Center
+Vishal's Test Center is a Django-based web application for conducting online tests with a user-friendly interface. It supports user authentication, test-taking with a timer and question tracker, and optional feedback collection. The application features a sleek, dark-themed UI built with Tailwind CSS.
 Features
 
 User Authentication:
